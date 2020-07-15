@@ -1,6 +1,17 @@
+<img style="margin: 0 auto;" src="pizza.jpg" width="100%" alt="Photo by Nik Owens on Unsplash" />
+
 ### How Do You Do, Fellow Devs? 🦄
 
+<small><em>Oh, don't mind the pizza there, but I hope you're hungry now.</em></small>
+
 I’m a software craftsman with a strong passion for open source software and the latest technologies. I'm working as a software engineer and consultant at [**Futurice**][futu] since August 2020. You can read my thoughts in long-form from my [blog][blog], [DEV.to][dev], or in bytesize format from [Mastodon][mt].
+
+#### 💻 Interesting Links
+
+* [**The Ineffable Story of Me**][about]
+* [**My Professional Journey (in form of a resume)**][cv]
+* [**Tools I Use to Survive My Day**][uses]
+* [**What Is It I'm Doing Now**][now]
 
 #### 📧 How to Reach Me?
 
@@ -17,6 +28,10 @@ At the moment, I'm not looking for work so leave those messages unsent. If you s
 
 [futu]: https://promise.tammerforce.com/en/
 [blog]: https://nikoheikkila.fi
+[about]: https://nikoheikkila.fi/about/
+[uses]: https://nikoheikkila.fi/uses/
+[now]: https://nikoheikkila.fi/now/
+[cv]: https://cv.nikoheikkila.fi
 [mt]: https://mastodon.technology/@nikoheikkila
 [tg]: https://t.me/nikoheikkila
 [li]: https://www.linkedin.com/in/nikoheikkila/
