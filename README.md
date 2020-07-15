@@ -1,4 +1,4 @@
-<img style="margin: 0 auto;" src="pizza.jpg" width="100%" alt="Photo by Nik Owens on Unsplash" />
+<img style="margin: 0 auto;" src="https://github.com/nikoheikkila/nikoheikkila/raw/master/pizza.jpg" width="100%" alt="Photo by Nik Owens on Unsplash" />
 
 ### How Do You Do, Fellow Devs? 🦄
 
