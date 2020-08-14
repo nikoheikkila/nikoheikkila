@@ -32,8 +32,8 @@ I’m a software craftsman with a strong passion for open source software and th
 #### 👷 Recent Contributions
 
 
+- [nikoheikkila/setup](https://github.com/nikoheikkila/setup) - New Computer, Who Dis? – Setup new development box with a single script (1 day ago)
 - [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) - A blog by Niko Heikkilä. Powered by coffee, VS Code, and Gatsby. (1 month ago)
-- [nikoheikkila/setup](https://github.com/nikoheikkila/setup) - New Computer, Who Dis? – Setup new development box with a single script (1 month ago)
 - [paytrail/react-paytrail-e2](https://github.com/paytrail/react-paytrail-e2) - React library and component for creating payments with Paytrail E2 interface. (1 month ago)
 - [paytrail/documentation](https://github.com/paytrail/documentation) - Source code for the Paytrail Integration Guide built with Hugo static site generator. (1 month ago)
 - [paytrail/e2-module](https://github.com/paytrail/e2-module) - A PHP client library for creating payments with Paytrail Form Interface (E2) (2 months ago)
