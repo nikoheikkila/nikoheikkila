@@ -13,21 +13,24 @@ I’m a software craftsman with a strong passion for open source software and th
 * [**Tools I Use to Survive My Day**][uses]
 * [**What Is It I'm Doing Now**][now]
 
-<!-- Begin dynamic content -->
+{{/* Begin dynamic content */}}
 
 #### 📜 Recent Blog Entries
-
 {{range rss "https://nikoheikkila.fi/rss.xml" 10}}
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
 #### 👷 Recent Contributions
-
 {{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+- [{{.Repo.Name}}]({{.Repo.URL}}) – {{.Repo.Description}}
 {{- end}}
 
-<!-- End dynamic content -->
+#### 🧙‍♂️ Recent Gists
+{{range gists 5}}
+- [{{.Description}}]({{.URL}})
+{{- end}}
+
+{{/* End dynamic content */}}
 
 #### 📧 How to Reach Me?
 
