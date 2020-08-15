@@ -17,7 +17,6 @@ I’m a software craftsman with a strong passion for open source software and th
 
 #### 📜 Recent Blog Entries
 
-
 - [Kickstarting the Open-Source Culture in Your Company](https://nikoheikkila.fi/blog/kickstarting-the-open-source-culture-in-your-company/)
 - [Layman&#39;s Guide to Higher-Order Functions](https://nikoheikkila.fi/blog/layman-s-guide-to-higher-order-functions/)
 - [Rapid Prototyping with Table-Driven Testing](https://nikoheikkila.fi/blog/rapid-prototyping-with-table-driven-testing/)
@@ -31,12 +30,19 @@ I’m a software craftsman with a strong passion for open source software and th
 
 #### 👷 Recent Contributions
 
+- [nikoheikkila/setup](https://github.com/nikoheikkila/setup) – New Computer, Who Dis? – Setup new development box with a single script
+- [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) – A blog by Niko Heikkilä. Powered by coffee, VS Code, and Gatsby.
+- [paytrail/react-paytrail-e2](https://github.com/paytrail/react-paytrail-e2) – React library and component for creating payments with Paytrail E2 interface.
+- [paytrail/documentation](https://github.com/paytrail/documentation) – Source code for the Paytrail Integration Guide built with Hugo static site generator.
+- [paytrail/e2-module](https://github.com/paytrail/e2-module) – A PHP client library for creating payments with Paytrail Form Interface (E2)
 
-- [nikoheikkila/setup](https://github.com/nikoheikkila/setup) - New Computer, Who Dis? – Setup new development box with a single script (2 days ago)
-- [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) - A blog by Niko Heikkilä. Powered by coffee, VS Code, and Gatsby. (1 month ago)
-- [paytrail/react-paytrail-e2](https://github.com/paytrail/react-paytrail-e2) - React library and component for creating payments with Paytrail E2 interface. (1 month ago)
-- [paytrail/documentation](https://github.com/paytrail/documentation) - Source code for the Paytrail Integration Guide built with Hugo static site generator. (1 month ago)
-- [paytrail/e2-module](https://github.com/paytrail/e2-module) - A PHP client library for creating payments with Paytrail Form Interface (E2) (2 months ago)
+#### 🧙‍♂️ Recent Gists
+
+- [Startup file for IPython](https://gist.github.com/b9db22a47e241d3558e2b55a9cf8c5d8)
+- [Javascript: Text-to-Speech (TTS) in Browser](https://gist.github.com/364236042d45e253c11efbad8df59122)
+- [Validate passwords using higher-order functions in Javascript](https://gist.github.com/3623f4e68e69a2ccd4fd1dc9fe490401)
+- [TypeScript: Format floating euros to string notation](https://gist.github.com/83330a93f2fbdb2f8796b14bff114a61)
+- [Use conventional commits through a VS Code shortcut](https://gist.github.com/73de297c8b409257b9c608a842a6d2f2)
 
 
 
