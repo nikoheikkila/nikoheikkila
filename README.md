@@ -17,6 +17,7 @@ I’m a software craftsman with a strong passion for open source software and th
 
 #### 📜 Recent Blog Entries
 
+- [First Four Weeks at Futurice](https://nikoheikkila.fi/blog/first-four-weeks-at-futurice/)
 - [Kickstarting the Open-Source Culture in Your Company](https://nikoheikkila.fi/blog/kickstarting-the-open-source-culture-in-your-company/)
 - [Layman&#39;s Guide to Higher-Order Functions](https://nikoheikkila.fi/blog/layman-s-guide-to-higher-order-functions/)
 - [Rapid Prototyping with Table-Driven Testing](https://nikoheikkila.fi/blog/rapid-prototyping-with-table-driven-testing/)
@@ -26,14 +27,13 @@ I’m a software craftsman with a strong passion for open source software and th
 - [Checking a Web Page for Dead Links](https://nikoheikkila.fi/blog/checking-a-web-page-for-dead-links/)
 - [Death of the Production Line and Factory Workers Attitude](https://nikoheikkila.fi/blog/death-of-the-production-line-and-factory-workers-attitude/)
 - [Customizing Your Shell Prompt for Productivity](https://nikoheikkila.fi/blog/customize-your-shell-prompt-for-productivity/)
-- [Why I&#39;m Quitting Twitter](https://nikoheikkila.fi/blog/why-i-m-quitting-twitter/)
 
 #### 👷 Recent Contributions
 
+- [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) – A blog by Niko Heikkilä. Powered by coffee, VS Code, and Gatsby.
 - [nikoheikkila/fish-completions](https://github.com/nikoheikkila/fish-completions) – Command completion scripts for the Fish Shell
 - [nikoheikkila/setup](https://github.com/nikoheikkila/setup) – New Computer, Who Dis? – Setup new development box with a single script
 - [paytrail/e2-module](https://github.com/paytrail/e2-module) – A PHP client library for creating payments with Paytrail Form Interface (E2)
-- [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) – A blog by Niko Heikkilä. Powered by coffee, VS Code, and Gatsby.
 - [paytrail/react-paytrail-e2](https://github.com/paytrail/react-paytrail-e2) – React library and component for creating payments with Paytrail E2 interface.
 
 #### 🧙‍♂️ Recent Gists
