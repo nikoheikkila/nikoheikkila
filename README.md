@@ -30,10 +30,10 @@ I’m a software craftsman with a strong passion for open source software and th
 
 #### 👷 Recent Contributions
 
+- [paytrail/e2-module](https://github.com/paytrail/e2-module) – A PHP client library for creating payments with Paytrail Form Interface (E2)
 - [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) – A blog by Niko Heikkilä. Powered by coffee, VS Code, and Gatsby.
 - [nikoheikkila/fish-completions](https://github.com/nikoheikkila/fish-completions) – Command completion scripts for the Fish Shell
 - [nikoheikkila/setup](https://github.com/nikoheikkila/setup) – New Computer, Who Dis? – Setup new development box with a single script
-- [paytrail/e2-module](https://github.com/paytrail/e2-module) – A PHP client library for creating payments with Paytrail Form Interface (E2)
 - [paytrail/react-paytrail-e2](https://github.com/paytrail/react-paytrail-e2) – React library and component for creating payments with Paytrail E2 interface.
 
 #### 🧙‍♂️ Recent Gists
