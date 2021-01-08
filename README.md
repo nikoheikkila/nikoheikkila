@@ -17,6 +17,7 @@ I’m a software craftsman with a strong passion for open source software and th
 
 #### 📜 Recent Blog Entries
 
+- [Effortless End-To-End Testing with Microsoft Playwright](https://nikoheikkila.fi/blog/effortless-end-to-end-testing-with-microsoft-playwright/)
 - [The Unsurprising Truth about What Motivates Developers](https://nikoheikkila.fi/blog/the-unsurprising-truth-about-what-motivates-developers/)
 - [Fight the Inner Impostor with Just-In-Time Learning](https://nikoheikkila.fi/blog/fight-the-inner-impostor-with-just-in-time-learning/)
 - [First Four Weeks at Futurice](https://nikoheikkila.fi/blog/first-four-weeks-at-futurice/)
@@ -26,12 +27,11 @@ I’m a software craftsman with a strong passion for open source software and th
 - [Quoth the Raven, Virtualize Your Stand-Ups](https://nikoheikkila.fi/blog/quoth-the-raven-virtualize-your-standups/)
 - [Being a Good Developer: Six Tips for a Painless Code Review](https://nikoheikkila.fi/blog/being-a-good-developer-six-tips-for-a-painless-code-review/)
 - [The Five Ideals of Developer Experience](https://nikoheikkila.fi/blog/the-five-ideals-of-developer-experience/)
-- [Checking a Web Page for Dead Links](https://nikoheikkila.fi/blog/checking-a-web-page-for-dead-links/)
 
 #### 👷 Recent Contributions
 
-- [paytrail/e2-module](https://github.com/paytrail/e2-module) – A PHP client library for creating payments with Paytrail Form Interface (E2)
 - [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) – A blog by Niko Heikkilä. Powered by coffee, VS Code, and Gatsby.
+- [paytrail/e2-module](https://github.com/paytrail/e2-module) – A PHP client library for creating payments with Paytrail Form Interface (E2)
 - [nikoheikkila/fish-completions](https://github.com/nikoheikkila/fish-completions) – Command completion scripts for the Fish Shell
 - [nikoheikkila/setup](https://github.com/nikoheikkila/setup) – New Computer, Who Dis? – Setup new development box with a single script
 - [paytrail/react-paytrail-e2](https://github.com/paytrail/react-paytrail-e2) – React library and component for creating payments with Paytrail E2 interface.
