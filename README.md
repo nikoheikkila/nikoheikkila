@@ -17,6 +17,7 @@ I’m a software craftsman with a strong passion for open source software and th
 
 #### 📜 Recent Blog Entries
 
+- [My 21st Century Note-Taking Workflow](https://nikoheikkila.fi/blog/my-21st-century-note-taking-workflow/)
 - [Effortless End-To-End Testing with Microsoft Playwright](https://nikoheikkila.fi/blog/effortless-end-to-end-testing-with-microsoft-playwright/)
 - [The Unsurprising Truth about What Motivates Developers](https://nikoheikkila.fi/blog/the-unsurprising-truth-about-what-motivates-developers/)
 - [Fight the Inner Impostor with Just-In-Time Learning](https://nikoheikkila.fi/blog/fight-the-inner-impostor-with-just-in-time-learning/)
@@ -26,7 +27,6 @@ I’m a software craftsman with a strong passion for open source software and th
 - [Rapid Prototyping with Table-Driven Testing](https://nikoheikkila.fi/blog/rapid-prototyping-with-table-driven-testing/)
 - [Quoth the Raven, Virtualize Your Stand-Ups](https://nikoheikkila.fi/blog/quoth-the-raven-virtualize-your-standups/)
 - [Being a Good Developer: Six Tips for a Painless Code Review](https://nikoheikkila.fi/blog/being-a-good-developer-six-tips-for-a-painless-code-review/)
-- [The Five Ideals of Developer Experience](https://nikoheikkila.fi/blog/the-five-ideals-of-developer-experience/)
 
 #### 👷 Recent Contributions
 
