@@ -30,8 +30,8 @@ I’m a software craftsman with a strong passion for open source software and th
 
 #### 👷 Recent Contributions
 
-- [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) – A list of /uses pages detailing developer setups, gear, software and configs.
 - [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) – A blog by Niko Heikkilä. Powered by coffee, VS Code, and Gatsby.
+- [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) – A list of /uses pages detailing developer setups, gear, software and configs.
 - [nikoheikkila/setup](https://github.com/nikoheikkila/setup) – New Computer, Who Dis? – Setup new development box with a single script
 - [nikoheikkila/slides](https://github.com/nikoheikkila/slides) – Presentations I&#39;ve used in my talks.
 - [paytrail/e2-module](https://github.com/paytrail/e2-module) – A PHP client library for creating payments with Paytrail Form Interface (E2)
