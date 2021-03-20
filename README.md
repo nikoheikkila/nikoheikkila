@@ -31,8 +31,8 @@ I’m a software craftsman with a strong passion for open source software and th
 #### 👷 Recent Contributions
 
 - [nikoheikkila/hours](https://github.com/nikoheikkila/hours) – CLI tool for reporting the latest Toggl time entries.
-- [nikoheikkila/setup](https://github.com/nikoheikkila/setup) – New Computer, Who Dis? – Setup new development box with a single script
 - [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) – A blog by Niko Heikkilä. Powered by coffee, VS Code, and Gatsby.
+- [nikoheikkila/setup](https://github.com/nikoheikkila/setup) – New Computer, Who Dis? – Setup new development box with a single script
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) – A list of /uses pages detailing developer setups, gear, software and configs.
 - [nikoheikkila/slides](https://github.com/nikoheikkila/slides) – Presentations I&#39;ve used in my talks.
 
