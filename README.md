@@ -17,6 +17,7 @@ I’m a software craftsman with a strong passion for open source software and th
 
 #### 📜 Recent Blog Entries
 
+- [Reducing the Lead Times with Little&#39;s Law](https://nikoheikkila.fi/blog/reducing-the-lead-times-with-littles-law/)
 - [Blocking Time for Tasks with Toggl](https://nikoheikkila.fi/blog/blocking-time-for-tasks-with-toggl/)
 - [My 21st Century Note-Taking Workflow](https://nikoheikkila.fi/blog/my-21st-century-note-taking-workflow/)
 - [Effortless End-To-End Testing with Microsoft Playwright](https://nikoheikkila.fi/blog/effortless-end-to-end-testing-with-microsoft-playwright/)
@@ -26,7 +27,6 @@ I’m a software craftsman with a strong passion for open source software and th
 - [Kickstarting the Open-Source Culture in Your Company](https://nikoheikkila.fi/blog/kickstarting-the-open-source-culture-in-your-company/)
 - [Layman&#39;s Guide to Higher-Order Functions](https://nikoheikkila.fi/blog/layman-s-guide-to-higher-order-functions/)
 - [Rapid Prototyping with Table-Driven Testing](https://nikoheikkila.fi/blog/rapid-prototyping-with-table-driven-testing/)
-- [Quoth the Raven, Virtualize Your Stand-Ups](https://nikoheikkila.fi/blog/quoth-the-raven-virtualize-your-standups/)
 
 #### 👷 Recent Contributions
 
