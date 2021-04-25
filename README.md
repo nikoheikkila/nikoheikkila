@@ -17,6 +17,7 @@ I’m a software craftsman with a strong passion for open source software and th
 
 #### 📜 Recent Blog Entries
 
+- [You Can&#39;t Grow Yourself Unless You Grow Others](https://nikoheikkila.fi/blog/you-can-t-grow-yourself-unless-you-grow-others/)
 - [Reducing the Lead Times with Little&#39;s Law](https://nikoheikkila.fi/blog/reducing-the-lead-times-with-littles-law/)
 - [Blocking Time for Tasks with Toggl](https://nikoheikkila.fi/blog/blocking-time-for-tasks-with-toggl/)
 - [My 21st Century Note-Taking Workflow](https://nikoheikkila.fi/blog/my-21st-century-note-taking-workflow/)
@@ -26,12 +27,11 @@ I’m a software craftsman with a strong passion for open source software and th
 - [First Four Weeks at Futurice](https://nikoheikkila.fi/blog/first-four-weeks-at-futurice/)
 - [Kickstarting the Open-Source Culture in Your Company](https://nikoheikkila.fi/blog/kickstarting-the-open-source-culture-in-your-company/)
 - [Layman&#39;s Guide to Higher-Order Functions](https://nikoheikkila.fi/blog/layman-s-guide-to-higher-order-functions/)
-- [Rapid Prototyping with Table-Driven Testing](https://nikoheikkila.fi/blog/rapid-prototyping-with-table-driven-testing/)
 
 #### 👷 Recent Contributions
 
-- [pelilegacy/pelilegacy.github.io](https://github.com/pelilegacy/pelilegacy.github.io) – Archives of Peliyhdistys Legacy ry published material
 - [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) – A blog by Niko Heikkilä. Powered by coffee, VS Code, and Gatsby.
+- [pelilegacy/pelilegacy.github.io](https://github.com/pelilegacy/pelilegacy.github.io) – Archives of Peliyhdistys Legacy ry published material
 - [nikoheikkila/hours](https://github.com/nikoheikkila/hours) – A command-line companion for the Toggl Track software. Check the README for supported features.
 - [nikoheikkila/setup](https://github.com/nikoheikkila/setup) – New Computer, Who Dis? – Setup new development box with a single script
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) – A list of /uses pages detailing developer setups, gear, software and configs.
