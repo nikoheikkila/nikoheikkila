@@ -17,6 +17,7 @@ I’m a software craftsman with a strong passion for open source software and th
 
 #### 📜 Recent Blog Entries
 
+- [Health Check Before Jumping to a New Organization](https://nikoheikkila.fi/blog/health-check-before-jumping-to-a-new-organization/)
 - [You Can&#39;t Grow Yourself Unless You Grow Others](https://nikoheikkila.fi/blog/you-can-t-grow-yourself-unless-you-grow-others/)
 - [Reducing the Lead Times with Little&#39;s Law](https://nikoheikkila.fi/blog/reducing-the-lead-times-with-littles-law/)
 - [Blocking Time for Tasks with Toggl](https://nikoheikkila.fi/blog/blocking-time-for-tasks-with-toggl/)
@@ -26,7 +27,6 @@ I’m a software craftsman with a strong passion for open source software and th
 - [Fight the Inner Impostor with Just-In-Time Learning](https://nikoheikkila.fi/blog/fight-the-inner-impostor-with-just-in-time-learning/)
 - [First Four Weeks at Futurice](https://nikoheikkila.fi/blog/first-four-weeks-at-futurice/)
 - [Kickstarting the Open-Source Culture in Your Company](https://nikoheikkila.fi/blog/kickstarting-the-open-source-culture-in-your-company/)
-- [Layman&#39;s Guide to Higher-Order Functions](https://nikoheikkila.fi/blog/layman-s-guide-to-higher-order-functions/)
 
 #### 👷 Recent Contributions
 
