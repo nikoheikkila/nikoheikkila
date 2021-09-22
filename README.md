@@ -30,11 +30,11 @@ I’m a software craftsman with a strong passion for open source software and th
 
 #### 👷 Recent Contributions
 
+- [nikoheikkila/playwright-kickstarter](https://github.com/nikoheikkila/playwright-kickstarter) – 
 - [nikoheikkila/golang-docker-api](https://github.com/nikoheikkila/golang-docker-api) – 
 - [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) – A blog by Niko Heikkilä. Powered by coffee, VS Code, and Gatsby.
 - [nikoheikkila/neo-notes](https://github.com/nikoheikkila/neo-notes) – A personal notetaking system composed with UNIX philosophy
 - [nikoheikkila/setup](https://github.com/nikoheikkila/setup) – New Computer, Who Dis? – Setup new development box with a single script
-- [pelilegacy/pelilegacy.github.io](https://github.com/pelilegacy/pelilegacy.github.io) – Archives of Peliyhdistys Legacy ry published material
 
 #### 🧙‍♂️ Recent Gists
 
