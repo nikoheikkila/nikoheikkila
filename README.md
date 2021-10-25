@@ -31,10 +31,10 @@ I’m a software craftsman with a strong passion for open source software and th
 #### 👷 Recent Contributions
 
 - [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) – A blog by Niko Heikkilä. Powered by coffee, VS Code, and Gatsby.
+- [nikoheikkila/purify-asserts](https://github.com/nikoheikkila/purify-asserts) – Jest expectations for the purify-ts library
 - [nikoheikkila/playwright-kickstarter](https://github.com/nikoheikkila/playwright-kickstarter) – A kickstarter repository to try out E2E tests with Microsoft Playwright.
 - [nikoheikkila/golang-docker-api](https://github.com/nikoheikkila/golang-docker-api) – Example project showing how to develop and package a Golang REST API with Docker.
 - [nikoheikkila/neo-notes](https://github.com/nikoheikkila/neo-notes) – A personal notetaking system composed with UNIX philosophy
-- [nikoheikkila/setup](https://github.com/nikoheikkila/setup) – New Computer, Who Dis? – Setup new development box with a single script
 
 #### 🧙‍♂️ Recent Gists
 
