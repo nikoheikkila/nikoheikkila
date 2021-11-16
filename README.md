@@ -17,6 +17,7 @@ I’m a software craftsman with a strong passion for open source software and th
 
 #### 📜 Recent Blog Entries
 
+- [Bringing Back the Technical Excellence: Rules of Thumb for Effective Software Lifecycle Management](https://nikoheikkila.fi/blog/bringing-back-the-technical-excellence/)
 - [Being a Good Developer: Tips for an Effective Code Review](https://nikoheikkila.fi/blog/being-a-good-developer-tips-for-an-effective-code-review/)
 - [When to Pair Program and When to Go Solo](https://nikoheikkila.fi/blog/when-to-pair-program-and-when-to-go-solo/)
 - [Health Check Before Jumping to a New Organization](https://nikoheikkila.fi/blog/health-check-before-jumping-to-a-new-organization/)
@@ -26,7 +27,6 @@ I’m a software craftsman with a strong passion for open source software and th
 - [My 21st Century Note-Taking Workflow](https://nikoheikkila.fi/blog/my-21st-century-note-taking-workflow/)
 - [Effortless End-To-End Testing with Microsoft Playwright](https://nikoheikkila.fi/blog/effortless-end-to-end-testing-with-microsoft-playwright/)
 - [The Unsurprising Truth about What Motivates Developers](https://nikoheikkila.fi/blog/the-unsurprising-truth-about-what-motivates-developers/)
-- [Fight the Inner Impostor with Just-In-Time Learning](https://nikoheikkila.fi/blog/fight-the-inner-impostor-with-just-in-time-learning/)
 
 #### 👷 Recent Contributions
 
