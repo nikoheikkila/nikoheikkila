@@ -17,6 +17,7 @@ I’m a software craftsman with a strong passion for open source software and th
 
 #### 📜 Recent Blog Entries
 
+- [DevOps Is the Interface, Your Organisation Implements It](https://nikoheikkila.fi/blog/dev-ops-is-the-interface-your-organisation-implements-it/)
 - [Bringing Back the Technical Excellence: Rules of Thumb for Effective Software Lifecycle Management](https://nikoheikkila.fi/blog/bringing-back-the-technical-excellence/)
 - [Being a Good Developer: Tips for an Effective Code Review](https://nikoheikkila.fi/blog/being-a-good-developer-tips-for-an-effective-code-review/)
 - [When to Pair Program and When to Go Solo](https://nikoheikkila.fi/blog/when-to-pair-program-and-when-to-go-solo/)
@@ -26,13 +27,12 @@ I’m a software craftsman with a strong passion for open source software and th
 - [Blocking Time for Tasks with Toggl](https://nikoheikkila.fi/blog/blocking-time-for-tasks-with-toggl/)
 - [My 21st Century Note-Taking Workflow](https://nikoheikkila.fi/blog/my-21st-century-note-taking-workflow/)
 - [Effortless End-To-End Testing with Microsoft Playwright](https://nikoheikkila.fi/blog/effortless-end-to-end-testing-with-microsoft-playwright/)
-- [The Unsurprising Truth about What Motivates Developers](https://nikoheikkila.fi/blog/the-unsurprising-truth-about-what-motivates-developers/)
 
 #### 👷 Recent Contributions
 
+- [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) – A blog by Niko Heikkilä. Powered by coffee, VS Code, and Gatsby.
 - [Minimum-CD/cd-manifesto](https://github.com/Minimum-CD/cd-manifesto) – Minimum Viable Continuous Delivery
 - [nikoheikkila/purify-asserts](https://github.com/nikoheikkila/purify-asserts) – Jest expectations for the purify-ts library
-- [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) – A blog by Niko Heikkilä. Powered by coffee, VS Code, and Gatsby.
 - [nikoheikkila/golang-docker-api](https://github.com/nikoheikkila/golang-docker-api) – Example project showing how to develop and package a Golang REST API with Docker.
 - [nikoheikkila/playwright-kickstarter](https://github.com/nikoheikkila/playwright-kickstarter) – A kickstarter repository to try out E2E tests with Microsoft Playwright.
 
