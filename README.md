@@ -30,11 +30,11 @@ I’m a software craftsman with a strong passion for open source software and th
 
 #### 👷 Recent Contributions
 
+- [nikoheikkila/publicator](https://github.com/nikoheikkila/publicator) – A better user experience for publishing Python packages with Poetry.
 - [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) – A blog by Niko Heikkilä. Powered by coffee, VS Code, and Gatsby.
 - [Minimum-CD/cd-manifesto](https://github.com/Minimum-CD/cd-manifesto) – Minimum Viable Continuous Delivery
 - [nikoheikkila/purify-asserts](https://github.com/nikoheikkila/purify-asserts) – Jest expectations for the purify-ts library
 - [nikoheikkila/golang-docker-api](https://github.com/nikoheikkila/golang-docker-api) – Example project showing how to develop and package a Golang REST API with Docker.
-- [nikoheikkila/playwright-kickstarter](https://github.com/nikoheikkila/playwright-kickstarter) – A kickstarter repository to try out E2E tests with Microsoft Playwright.
 
 #### 🧙‍♂️ Recent Gists
 
