@@ -17,6 +17,7 @@ I’m a software craftsman with a strong passion for open source software and th
 
 #### 📜 Recent Blog Entries
 
+- [New Release: Publicator](https://nikoheikkila.fi/blog/new-release-publicator/)
 - [DevOps Is the Interface, Your Organisation Implements It](https://nikoheikkila.fi/blog/dev-ops-is-the-interface-your-organisation-implements-it/)
 - [Bringing Back the Technical Excellence: Rules of Thumb for Effective Software Lifecycle Management](https://nikoheikkila.fi/blog/bringing-back-the-technical-excellence/)
 - [Being a Good Developer: Tips for an Effective Code Review](https://nikoheikkila.fi/blog/being-a-good-developer-tips-for-an-effective-code-review/)
@@ -26,13 +27,12 @@ I’m a software craftsman with a strong passion for open source software and th
 - [Reducing the Lead Times with Little&#39;s Law](https://nikoheikkila.fi/blog/reducing-the-lead-times-with-littles-law/)
 - [Blocking Time for Tasks with Toggl](https://nikoheikkila.fi/blog/blocking-time-for-tasks-with-toggl/)
 - [My 21st Century Note-Taking Workflow](https://nikoheikkila.fi/blog/my-21st-century-note-taking-workflow/)
-- [Effortless End-To-End Testing with Microsoft Playwright](https://nikoheikkila.fi/blog/effortless-end-to-end-testing-with-microsoft-playwright/)
 
 #### 👷 Recent Contributions
 
+- [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) – A blog by Niko Heikkilä. Powered by coffee, VS Code, and Gatsby.
 - [nikoheikkila/publicator](https://github.com/nikoheikkila/publicator) – A better user experience for publishing Python packages with Poetry.
 - [nikoheikkila/python-library-template](https://github.com/nikoheikkila/python-library-template) – Cookiecutter template for my Python libraries
-- [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) – A blog by Niko Heikkilä. Powered by coffee, VS Code, and Gatsby.
 - [Minimum-CD/cd-manifesto](https://github.com/Minimum-CD/cd-manifesto) – Minimum Viable Continuous Delivery
 - [nikoheikkila/purify-asserts](https://github.com/nikoheikkila/purify-asserts) – Jest expectations for the purify-ts library
 
