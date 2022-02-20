@@ -17,6 +17,8 @@ I’m a software craftsman with a strong passion for open source software and th
 
 #### 📜 Recent Blog Entries
 
+- [Growing Software Guided by the Living Dead](https://nikoheikkila.fi/blog/growing-software-guided-by-the-living-dead/)
+- [Uncertainty-Driven Project Development](https://nikoheikkila.fi/blog/uncertainty-driven-project-development/)
 - [New Release: Publicator](https://nikoheikkila.fi/blog/new-release-publicator/)
 - [DevOps Is the Interface, Your Organisation Implements It](https://nikoheikkila.fi/blog/dev-ops-is-the-interface-your-organisation-implements-it/)
 - [Bringing Back the Technical Excellence: Rules of Thumb for Effective Software Lifecycle Management](https://nikoheikkila.fi/blog/bringing-back-the-technical-excellence/)
@@ -25,8 +27,6 @@ I’m a software craftsman with a strong passion for open source software and th
 - [Health Check Before Jumping to a New Organization](https://nikoheikkila.fi/blog/health-check-before-jumping-to-a-new-organization/)
 - [You Can&#39;t Grow Yourself Unless You Grow Others](https://nikoheikkila.fi/blog/you-can-t-grow-yourself-unless-you-grow-others/)
 - [Reducing the Lead Times with Little&#39;s Law](https://nikoheikkila.fi/blog/reducing-the-lead-times-with-littles-law/)
-- [Blocking Time for Tasks with Toggl](https://nikoheikkila.fi/blog/blocking-time-for-tasks-with-toggl/)
-- [My 21st Century Note-Taking Workflow](https://nikoheikkila.fi/blog/my-21st-century-note-taking-workflow/)
 
 #### 👷 Recent Contributions
 
