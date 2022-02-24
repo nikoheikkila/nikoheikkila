@@ -38,11 +38,11 @@ I’m a software craftsman with a strong passion for open source software and th
 
 #### 🧙‍♂️ Recent Gists
 
+- [A quick way to serialize Numpy Array to JSON](https://gist.github.com/7c32831c3d65adbcc4bee5b9930564c0)
 - [A simple example of refactoring a function in baby steps from returning to boolean all the way to Either monad.](https://gist.github.com/0957cf29ca6f9e9f8651b849f0826c0a)
 - [Fish Shell function for sourcing standard .env files](https://gist.github.com/dd4357a178c8679411566ba2ca280fcc)
 - [Startup file for IPython](https://gist.github.com/b9db22a47e241d3558e2b55a9cf8c5d8)
 - [Javascript: Text-to-Speech (TTS) in Browser](https://gist.github.com/364236042d45e253c11efbad8df59122)
-- [Validate passwords using higher-order functions in Javascript](https://gist.github.com/3623f4e68e69a2ccd4fd1dc9fe490401)
 
 
 
