@@ -17,16 +17,16 @@ I’m a software craftsman with a strong passion for open source software and th
 
 #### 📜 Recent Blog Entries
 
-- [Five Best Talks from DevTernity 2021](https://nikoheikkila.fi/blog/five-best-talks-from-dev-ternity-2021/)
-- [Growing Software Guided by the Living Dead](https://nikoheikkila.fi/blog/growing-software-guided-by-the-living-dead/)
-- [Uncertainty-Driven Project Development](https://nikoheikkila.fi/blog/uncertainty-driven-project-development/)
-- [New Release: Publicator](https://nikoheikkila.fi/blog/new-release-publicator/)
-- [DevOps Is the Interface, Your Organisation Implements It](https://nikoheikkila.fi/blog/dev-ops-is-the-interface-your-organisation-implements-it/)
-- [Bringing Back the Technical Excellence: Rules of Thumb for Effective Software Lifecycle Management](https://nikoheikkila.fi/blog/bringing-back-the-technical-excellence/)
-- [Being a Good Developer: Tips for an Effective Code Review](https://nikoheikkila.fi/blog/being-a-good-developer-tips-for-an-effective-code-review/)
-- [When to Pair Program and When to Go Solo](https://nikoheikkila.fi/blog/when-to-pair-program-and-when-to-go-solo/)
-- [Health Check Before Jumping to a New Organization](https://nikoheikkila.fi/blog/health-check-before-jumping-to-a-new-organization/)
-- [You Can&#39;t Grow Yourself Unless You Grow Others](https://nikoheikkila.fi/blog/you-can-t-grow-yourself-unless-you-grow-others/)
+- [Five Best Talks from DevTernity 2021](https://nikoheikkila.fi)
+- [Growing Software Guided by the Living Dead](https://nikoheikkila.fi)
+- [Uncertainty-Driven Project Development](https://nikoheikkila.fi)
+- [New Release: Publicator](https://nikoheikkila.fi)
+- [DevOps Is the Interface, Your Organisation Implements It](https://nikoheikkila.fi)
+- [Bringing Back the Technical Excellence: Rules of Thumb for Effective Software Lifecycle Management](https://nikoheikkila.fi)
+- [Being a Good Developer: Tips for an Effective Code Review](https://nikoheikkila.fi)
+- [When to Pair Program and When to Go Solo](https://nikoheikkila.fi)
+- [Health Check Before Jumping to a New Organization](https://nikoheikkila.fi)
+- [You Can&#39;t Grow Yourself Unless You Grow Others](https://nikoheikkila.fi)
 
 #### 👷 Recent Contributions
 
