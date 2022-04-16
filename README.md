@@ -30,11 +30,11 @@ I’m a software craftsman with a strong passion for open source software and th
 
 #### 👷 Recent Contributions
 
+- [nikoheikkila/setup](https://github.com/nikoheikkila/setup) – New Computer, Who Dis? – Setup new development box with a single script
 - [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) – A blog by Niko Heikkilä. Powered by coffee, VS Code, and Gatsby.
 - [nikoheikkila/semmy](https://github.com/nikoheikkila/semmy) – Semantic versioning made easy for Python
 - [nikoheikkila/publicator](https://github.com/nikoheikkila/publicator) – A better user experience for publishing Python packages with Poetry.
 - [nikoheikkila/python-library-template](https://github.com/nikoheikkila/python-library-template) – Cookiecutter template for my Python libraries
-- [Minimum-CD/cd-manifesto](https://github.com/Minimum-CD/cd-manifesto) – Minimum Viable Continuous Delivery
 
 #### 🧙‍♂️ Recent Gists
 
