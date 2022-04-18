@@ -17,6 +17,7 @@ I’m a software craftsman with a strong passion for open source software and th
 
 #### 📜 Recent Blog Entries
 
+- [Effortless End-To-End Testing with Microsoft Playwright](https://nikoheikkila.fi/blog/effortless-end-to-end-testing-with-microsoft-playwright/)
 - [Five Best Talks from DevTernity 2021](https://nikoheikkila.fi/blog/five-best-talks-from-dev-ternity-2021/)
 - [Growing Software Guided by the Living Dead](https://nikoheikkila.fi/blog/growing-software-guided-by-the-living-dead/)
 - [Uncertainty-Driven Project Development](https://nikoheikkila.fi/blog/uncertainty-driven-project-development/)
@@ -26,15 +27,14 @@ I’m a software craftsman with a strong passion for open source software and th
 - [Being a Good Developer: Tips for an Effective Code Review](https://nikoheikkila.fi/blog/being-a-good-developer-tips-for-an-effective-code-review/)
 - [When to Pair Program and When to Go Solo](https://nikoheikkila.fi/blog/when-to-pair-program-and-when-to-go-solo/)
 - [Health Check Before Jumping to a New Organization](https://nikoheikkila.fi/blog/health-check-before-jumping-to-a-new-organization/)
-- [You Can&#39;t Grow Yourself Unless You Grow Others](https://nikoheikkila.fi/blog/you-can-t-grow-yourself-unless-you-grow-others/)
 
 #### 👷 Recent Contributions
 
 - [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) – A blog by Niko Heikkilä. Powered by coffee, VS Code, and Gatsby.
+- [nikoheikkila/playwright-kickstarter](https://github.com/nikoheikkila/playwright-kickstarter) – A kickstarter repository to try out E2E tests with Microsoft Playwright.
 - [nikoheikkila/setup](https://github.com/nikoheikkila/setup) – New Computer, Who Dis? – Setup new development box with a single script
 - [nikoheikkila/semmy](https://github.com/nikoheikkila/semmy) – Semantic versioning made easy for Python
 - [nikoheikkila/publicator](https://github.com/nikoheikkila/publicator) – A better user experience for publishing Python packages with Poetry.
-- [nikoheikkila/python-library-template](https://github.com/nikoheikkila/python-library-template) – Cookiecutter template for my Python libraries
 
 #### 🧙‍♂️ Recent Gists
 
