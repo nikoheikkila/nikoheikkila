@@ -17,21 +17,21 @@ I’m a software craftsman with a strong passion for open source software and th
 
 #### 📜 Recent Blog Entries
 
+- [The Essentials of Simple Design](https://nikoheikkila.fi/blog/the-essentials-of-simple-design/)
+- [How do you ensure your team receives feedback as fast as possible?](https://nikoheikkila.fi/blog/how-do-you-ensure-your-team-receives-feedback-as-fast-as-possible/)
+- [New Computer — Who Dis?](https://nikoheikkila.fi/blog/new-computer-who-dis/)
+- [Sanctity of the Slow Web](https://nikoheikkila.fi/blog/sanctity-of-the-slow-web/)
 - [Effortless End-To-End Testing with Microsoft Playwright](https://nikoheikkila.fi/blog/effortless-end-to-end-testing-with-microsoft-playwright/)
 - [Five Best Talks from DevTernity 2021](https://nikoheikkila.fi/blog/five-best-talks-from-dev-ternity-2021/)
 - [Growing Software Guided by the Living Dead](https://nikoheikkila.fi/blog/growing-software-guided-by-the-living-dead/)
 - [Uncertainty-Driven Project Development](https://nikoheikkila.fi/blog/uncertainty-driven-project-development/)
 - [New Release: Publicator](https://nikoheikkila.fi/blog/new-release-publicator/)
-- [DevOps Is the Interface, Your Organisation Implements It](https://nikoheikkila.fi/blog/dev-ops-is-the-interface-your-organisation-implements-it/)
-- [Bringing Back the Technical Excellence: Rules of Thumb for Effective Software Lifecycle Management](https://nikoheikkila.fi/blog/bringing-back-the-technical-excellence/)
-- [Being a Good Developer: Tips for an Effective Code Review](https://nikoheikkila.fi/blog/being-a-good-developer-tips-for-an-effective-code-review/)
-- [When to Pair Program and When to Go Solo](https://nikoheikkila.fi/blog/when-to-pair-program-and-when-to-go-solo/)
-- [Health Check Before Jumping to a New Organization](https://nikoheikkila.fi/blog/health-check-before-jumping-to-a-new-organization/)
+- [Raising the Bar of Professional Software Development](https://nikoheikkila.fi/blog/raising-the-bar-of-professional-software-development/)
 
 #### 👷 Recent Contributions
 
-- [nikoheikkila/movies-api](https://github.com/nikoheikkila/movies-api) – 
 - [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) – A blog by Niko Heikkilä. Powered by coffee, VS Code, and Gatsby.
+- [nikoheikkila/movies-api](https://github.com/nikoheikkila/movies-api) – 
 - [nikoheikkila/publicator](https://github.com/nikoheikkila/publicator) – A better user experience for publishing Python packages with Poetry.
 - [nikoheikkila/playwright-kickstarter](https://github.com/nikoheikkila/playwright-kickstarter) – A kickstarter repository to try out E2E tests with Microsoft Playwright.
 - [nikoheikkila/setup](https://github.com/nikoheikkila/setup) – New Computer, Who Dis? – Setup new development box with a single script
