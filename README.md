@@ -25,8 +25,8 @@ I’m a software craftsman with a strong passion for open source software and th
 - [Five Best Talks from DevTernity 2021](https://nikoheikkila.fi/blog/five-best-talks-from-dev-ternity-2021/)
 - [Growing Software Guided by the Living Dead](https://nikoheikkila.fi/blog/growing-software-guided-by-the-living-dead/)
 - [Uncertainty-Driven Project Development](https://nikoheikkila.fi/blog/uncertainty-driven-project-development/)
-- [New Release: Publicator](https://nikoheikkila.fi/blog/new-release-publicator/)
 - [Raising the Bar of Professional Software Development](https://nikoheikkila.fi/blog/raising-the-bar-of-professional-software-development/)
+- [New Release: Publicator](https://nikoheikkila.fi/blog/new-release-publicator/)
 
 #### 👷 Recent Contributions
 
