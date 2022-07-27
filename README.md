@@ -31,10 +31,10 @@ I’m a software craftsman with a strong passion for open source software and th
 #### 👷 Recent Contributions
 
 - [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) – A blog by Niko Heikkilä. Powered by coffee, VS Code, and Gatsby.
+- [nikoheikkila/setup](https://github.com/nikoheikkila/setup) – New Computer, Who Dis? – Setup new development box with a single script
 - [nikoheikkila/publicator](https://github.com/nikoheikkila/publicator) – A better user experience for publishing Python packages with Poetry.
 - [nikoheikkila/playwright-kickstarter](https://github.com/nikoheikkila/playwright-kickstarter) – A kickstarter repository to try out E2E tests with Microsoft Playwright.
 - [nikoheikkila/movies-api](https://github.com/nikoheikkila/movies-api) – A simple Python backend project storing data about the movies I&#39;ve watched.
-- [nikoheikkila/setup](https://github.com/nikoheikkila/setup) – New Computer, Who Dis? – Setup new development box with a single script
 
 #### 🧙‍♂️ Recent Gists
 
