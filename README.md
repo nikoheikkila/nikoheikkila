@@ -17,6 +17,7 @@ I’m a software craftsman with a strong passion for open source software and th
 
 #### 📜 Recent Blog Entries
 
+- [A Practical Guide to Micro-Commits](https://nikoheikkila.fi/blog/a-practical-guide-to-micro-commits/)
 - [The Essentials of Simple Design](https://nikoheikkila.fi/blog/the-essentials-of-simple-design/)
 - [How do you ensure your team receives feedback as fast as possible?](https://nikoheikkila.fi/blog/how-do-you-ensure-your-team-receives-feedback-as-fast-as-possible/)
 - [New Computer — Who Dis?](https://nikoheikkila.fi/blog/new-computer-who-dis/)
@@ -26,13 +27,12 @@ I’m a software craftsman with a strong passion for open source software and th
 - [Growing Software Guided by the Living Dead](https://nikoheikkila.fi/blog/growing-software-guided-by-the-living-dead/)
 - [Uncertainty-Driven Project Development](https://nikoheikkila.fi/blog/uncertainty-driven-project-development/)
 - [New Release: Publicator](https://nikoheikkila.fi/blog/new-release-publicator/)
-- [Raising the Bar of Professional Software Development](https://nikoheikkila.fi/blog/raising-the-bar-of-professional-software-development/)
 
 #### 👷 Recent Contributions
 
+- [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) – A blog by Niko Heikkilä. Powered by coffee, VS Code, and Gatsby.
 - [nikoheikkila/expense-tracker](https://github.com/nikoheikkila/expense-tracker) – A full-stack web application tracking my expenses.
 - [nikoheikkila/setup](https://github.com/nikoheikkila/setup) – New Computer, Who Dis? – Setup new development box with a single script
-- [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) – A blog by Niko Heikkilä. Powered by coffee, VS Code, and Gatsby.
 - [nikoheikkila/publicator](https://github.com/nikoheikkila/publicator) – A better user experience for publishing Python packages with Poetry.
 - [nikoheikkila/playwright-kickstarter](https://github.com/nikoheikkila/playwright-kickstarter) – A kickstarter repository to try out E2E tests with Microsoft Playwright.
 
