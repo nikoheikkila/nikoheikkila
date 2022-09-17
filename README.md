@@ -30,9 +30,9 @@ I’m a software craftsman with a strong passion for open source software and th
 
 #### 👷 Recent Contributions
 
+- [nikoheikkila/expense-tracker](https://github.com/nikoheikkila/expense-tracker) – A full-stack web application tracking my expenses.
 - [nikoheikkila/speed-tdd](https://github.com/nikoheikkila/speed-tdd) – TDD tutorial in the vein of Speed (1994)
 - [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) – A blog by Niko Heikkilä. Powered by coffee, VS Code, and Gatsby.
-- [nikoheikkila/expense-tracker](https://github.com/nikoheikkila/expense-tracker) – A full-stack web application tracking my expenses.
 - [nikoheikkila/setup](https://github.com/nikoheikkila/setup) – New Computer, Who Dis? – Setup new development box with a single script
 - [nikoheikkila/publicator](https://github.com/nikoheikkila/publicator) – A better user experience for publishing Python packages with Poetry.
 
