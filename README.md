@@ -17,6 +17,7 @@ I’m a software craftsman with a strong passion for open source software and th
 
 #### 📜 Recent Blog Entries
 
+- [Test-Driven Development on a Bus Ride to Hell](https://nikoheikkila.fi/blog/test-driven-development-on-a-bus-ride-to-hell/)
 - [Be Effective, Not Productive](https://nikoheikkila.fi/blog/be-effective-not-productive/)
 - [Use Case Driven Development: How to Write Resilient and Robust Tests](https://nikoheikkila.fi/blog/use-case-driven-development-how-to-write-resilient-and-robust-tests/)
 - [A Practical Guide to Micro-Commits](https://nikoheikkila.fi/blog/a-practical-guide-to-micro-commits/)
@@ -26,13 +27,12 @@ I’m a software craftsman with a strong passion for open source software and th
 - [Sanctity of the Slow Web](https://nikoheikkila.fi/blog/sanctity-of-the-slow-web/)
 - [Effortless End-To-End Testing with Microsoft Playwright](https://nikoheikkila.fi/blog/effortless-end-to-end-testing-with-microsoft-playwright/)
 - [Five Best Talks from DevTernity 2021](https://nikoheikkila.fi/blog/five-best-talks-from-dev-ternity-2021/)
-- [Growing Software Guided by the Living Dead](https://nikoheikkila.fi/blog/growing-software-guided-by-the-living-dead/)
 
 #### 👷 Recent Contributions
 
+- [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) – A blog by Niko Heikkilä. Powered by coffee, VS Code, and Gatsby.
 - [nikoheikkila/expense-tracker](https://github.com/nikoheikkila/expense-tracker) – A full-stack web application tracking my expenses.
 - [nikoheikkila/speed-tdd](https://github.com/nikoheikkila/speed-tdd) – TDD tutorial in the vein of Speed (1994)
-- [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) – A blog by Niko Heikkilä. Powered by coffee, VS Code, and Gatsby.
 - [nikoheikkila/setup](https://github.com/nikoheikkila/setup) – New Computer, Who Dis? – Setup new development box with a single script
 - [nikoheikkila/publicator](https://github.com/nikoheikkila/publicator) – A better user experience for publishing Python packages with Poetry.
 
