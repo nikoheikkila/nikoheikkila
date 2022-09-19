@@ -17,16 +17,16 @@ I’m a software craftsman with a strong passion for open source software and th
 
 #### 📜 Recent Blog Entries
 
+- [The Definitive List of Things I Don&#39;t Know](https://nikoheikkila.fi/blog/things-i-don-t-know/)
 - [Test-Driven Development on a Bus Ride to Hell](https://nikoheikkila.fi/blog/test-driven-development-on-a-bus-ride-to-hell/)
 - [Be Effective, Not Productive](https://nikoheikkila.fi/blog/be-effective-not-productive/)
 - [Use Case Driven Development: How to Write Resilient and Robust Tests](https://nikoheikkila.fi/blog/use-case-driven-development-how-to-write-resilient-and-robust-tests/)
+- [Turning up the Developer Experience to Eleven with Mob Programming](https://nikoheikkila.fi/blog/turning-up-the-developer-experience-to-eleven-with-mob-programming/)
 - [A Practical Guide to Micro-Commits](https://nikoheikkila.fi/blog/a-practical-guide-to-micro-commits/)
 - [The Essentials of Simple Design](https://nikoheikkila.fi/blog/the-essentials-of-simple-design/)
 - [How do you ensure your team receives feedback as fast as possible?](https://nikoheikkila.fi/blog/how-do-you-ensure-your-team-receives-feedback-as-fast-as-possible/)
 - [New Computer — Who Dis?](https://nikoheikkila.fi/blog/new-computer-who-dis/)
 - [Sanctity of the Slow Web](https://nikoheikkila.fi/blog/sanctity-of-the-slow-web/)
-- [Effortless End-To-End Testing with Microsoft Playwright](https://nikoheikkila.fi/blog/effortless-end-to-end-testing-with-microsoft-playwright/)
-- [Five Best Talks from DevTernity 2021](https://nikoheikkila.fi/blog/five-best-talks-from-dev-ternity-2021/)
 
 #### 👷 Recent Contributions
 
