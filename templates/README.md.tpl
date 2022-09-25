@@ -1,43 +1,49 @@
 <img style="margin: 0 auto;" src="https://github.com/nikoheikkila/nikoheikkila/raw/master/pizza.jpg" width="100%" alt="Photo by Nik Owens on Unsplash" />
 
-### How Do You Do, Fellow Devs? 🦄
+## How Do You Do, Fellow Devs? 🦄
 
-<small><em>Oh, don't mind the pizza there, but I hope you're hungry now.</em></small>
+_Oh, don't mind the pizza there, but I hope you're hungry now._
 
-I’m a software craftsman with a strong passion for open source software and the latest technologies. I'm working as a software engineer and consultant at [**Futurice**][futu] since August 2020. You can read my thoughts in long-form from my [blog][blog], [DEV.to][dev], or in bytesize format from [Mastodon][mt].
+I’m a software craftsman and engineer with a strong passion for making work and life better for other software engineers. You can read my thoughts in long-form from my [blog][blog], [newsletter][hey], or in bytesize format from [Mastodon][mt].
 
-#### 💻 Interesting Links
+### 💻 Interesting Links
 
 * [**The Ineffable Story of Me**][about]
 * [**My Professional Journey (in form of a resume)**][cv]
 * [**Tools I Use to Survive My Day**][uses]
 * [**What Is It I'm Doing Now**][now]
 
-{{/* Begin dynamic content */}}
+{{/_Begin dynamic content_/}}
 
-#### 📜 Recent Blog Entries
+### 📜 Recent Blog Entries
+
 {{range rss "https://nikoheikkila.fi/rss.xml" 10}}
-- [{{.Title}}]({{.URL}})
+
+* [{{.Title}}]({{.URL}})
 {{- end}}
 
-#### 👷 Recent Contributions
+### 👷 Recent Contributions
+
 {{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) – {{.Repo.Description}}
+
+* [{{.Repo.Name}}]({{.Repo.URL}}) – {{.Repo.Description}}
 {{- end}}
 
-#### 🧙‍♂️ Recent Gists
+### 🧙‍♂️ Recent Gists
+
 {{range gists 5}}
-- [{{.Description}}]({{.URL}})
+
+* [{{.Description}}]({{.URL}})
 {{- end}}
 
-{{/* End dynamic content */}}
+{{/_End dynamic content_/}}
 
-#### 📧 How to Reach Me?
+### 📧 How to Reach Me?
 
 * [**Telegram**][tg] for quick chats
 * [**LinkedIn**][li] for more professional connections
 
-At the moment, I'm not looking for work so leave those messages unsent. If you seek advice in software development or any other area I might be skilled in, drop me a message and I'll reply in a couple of days.
+At the moment, I'm not looking for work so leave those messages unsent. If you seek advice in modern software engineering, architecture, agile methods, or similar areas I am skilled in, then drop me a message and I'll reply in a couple of days.
 
 ***
 
@@ -45,7 +51,6 @@ At the moment, I'm not looking for work so leave those messages unsent. If you s
   <em>Check my projects below and leave a star if you find anything interesting.</em> 👇
 </p>
 
-[futu]: https://promise.tammerforce.com/en/
 [blog]: https://nikoheikkila.fi
 [about]: https://nikoheikkila.fi/about/
 [uses]: https://nikoheikkila.fi/uses/
@@ -54,4 +59,4 @@ At the moment, I'm not looking for work so leave those messages unsent. If you s
 [mt]: https://mastodon.technology/@nikoheikkila
 [tg]: https://t.me/nikoheikkila
 [li]: https://www.linkedin.com/in/nikoheikkila/
-[dev]: https://dev.to/nikoheikkila
+[hey]: https://world.hey.com/niko.heikkila/
