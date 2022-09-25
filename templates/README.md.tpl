@@ -13,8 +13,6 @@ I’m a software craftsman and engineer with a strong passion for making work an
 * [**Tools I Use to Survive My Day**][uses]
 * [**What Is It I'm Doing Now**][now]
 
-{{/_Begin dynamic content_/}}
-
 ### 📜 Recent Blog Entries
 
 {{range rss "https://nikoheikkila.fi/rss.xml" 10}}
@@ -35,8 +33,6 @@ I’m a software craftsman and engineer with a strong passion for making work an
 
 * [{{.Description}}]({{.URL}})
 {{- end}}
-
-{{/_End dynamic content_/}}
 
 ### 📧 How to Reach Me?
 
