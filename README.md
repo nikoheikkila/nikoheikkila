@@ -17,6 +17,8 @@ I’m a software craftsman and engineer with a strong passion for making work an
 
 
 
+* [Layman&#39;s Guide to Higher-Order Functions](https://nikoheikkila.fi/blog/layman-s-guide-to-higher-order-functions/)
+
 * [The Definitive List of Things I Don&#39;t Know](https://nikoheikkila.fi/blog/things-i-don-t-know/)
 
 * [Test-Driven Development on a Bus Ride to Hell](https://nikoheikkila.fi/blog/test-driven-development-on-a-bus-ride-to-hell/)
@@ -35,17 +37,15 @@ I’m a software craftsman and engineer with a strong passion for making work an
 
 * [New Computer — Who Dis?](https://nikoheikkila.fi/blog/new-computer-who-dis/)
 
-* [Sanctity of the Slow Web](https://nikoheikkila.fi/blog/sanctity-of-the-slow-web/)
-
 ### 👷 Recent Contributions
 
 
 
+* [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) – A blog by Niko Heikkilä. Powered by coffee, VS Code, and Gatsby.
+
 * [nikoheikkila/publicator](https://github.com/nikoheikkila/publicator) – A better user experience for publishing Python packages with Poetry.
 
 * [nikoheikkila/expense-tracker](https://github.com/nikoheikkila/expense-tracker) – A full-stack web application tracking my expenses.
-
-* [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) – A blog by Niko Heikkilä. Powered by coffee, VS Code, and Gatsby.
 
 * [nikoheikkila/speed-tdd](https://github.com/nikoheikkila/speed-tdd) – TDD tutorial in the vein of Speed (1994)
 
