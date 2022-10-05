@@ -16,21 +16,18 @@ I’m a software craftsman and engineer with a strong passion for making work an
 ### 📜 Recent Blog Entries
 
 {{range rss "https://nikoheikkila.fi/rss.xml" 10}}
-
 * [{{.Title}}]({{.URL}})
 {{- end}}
 
 ### 👷 Recent Contributions
 
 {{range recentContributions 5}}
-
 * [{{.Repo.Name}}]({{.Repo.URL}}) – {{.Repo.Description}}
 {{- end}}
 
 ### 🧙‍♂️ Recent Gists
 
 {{range gists 5}}
-
 * [{{.Description}}]({{.URL}})
 {{- end}}
 
