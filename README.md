@@ -39,11 +39,11 @@ I’m a software craftsman and engineer with a strong passion for making work an
 ### 🧙‍♂️ Recent Gists
 
 
+* [General directory scanner implementation in pure Python](https://gist.github.com/9252fa3c0c0e89a940218bd71e73ca31)
 * [Python: Quick script to update all the existing Poetry packages by traversing pyproject.toml file.](https://gist.github.com/a5203186f9cf7fe0af6d154db328e336)
 * [Fish Shell: Interactive runner for your Taskfile tasks](https://gist.github.com/f8f6d707102e186b790bc3efb5bd70c2)
 * [A quick way to serialize Numpy Array to JSON](https://gist.github.com/7c32831c3d65adbcc4bee5b9930564c0)
 * [A simple example of refactoring a function in baby steps from returning to boolean all the way to Either monad.](https://gist.github.com/0957cf29ca6f9e9f8651b849f0826c0a)
-* [Fish Shell function for sourcing standard .env files](https://gist.github.com/dd4357a178c8679411566ba2ca280fcc)
 
 ### 📧 How to Reach Me?
 
