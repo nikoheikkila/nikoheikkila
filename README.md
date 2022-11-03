@@ -4,7 +4,7 @@
 
 _Oh, don't mind the pizza there, but I hope you're hungry now._
 
-I’m a software craftsman and engineer with a strong passion for making work and life better for other software engineers. You can read my thoughts in long-form from my [blog][blog], [newsletter][hey], or in bytesize format from [Mastodon][mt].
+I’m a software craftsman and engineer with a strong passion for making work and life better for other software engineers. You can read my thoughts in long-form from my [blog][blog], [newsletter][hey], or in bytesize format from <a rel="me" href="https://fosstodon.org/@nikoheikkila">Mastodon</a>.
 
 ### 💻 Interesting Links
 
@@ -63,7 +63,6 @@ At the moment, I'm not looking for work so leave those messages unsent. If you s
 [uses]: https://nikoheikkila.fi/uses/
 [now]: https://nikoheikkila.fi/now/
 [cv]: https://cv.nikoheikkila.fi
-[mt]: https://mastodon.technology/@nikoheikkila
 [tg]: https://t.me/nikoheikkila
 [li]: https://www.linkedin.com/in/nikoheikkila/
 [hey]: https://world.hey.com/niko.heikkila/
