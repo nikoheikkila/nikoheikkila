@@ -16,13 +16,13 @@ I’m a software craftsman and engineer with a strong passion for making work an
 ### 📜 Recent Blog Entries
 
 
+* [A Practical Guide to Micro-Commits](https://nikoheikkila.fi/blog/a-practical-guide-to-micro-commits/)
 * [Layman&#39;s Guide to Higher-Order Functions](https://nikoheikkila.fi/blog/layman-s-guide-to-higher-order-functions/)
 * [The Definitive List of Things I Don&#39;t Know](https://nikoheikkila.fi/blog/things-i-don-t-know/)
 * [Test-Driven Development on a Bus Ride to Hell](https://nikoheikkila.fi/blog/test-driven-development-on-a-bus-ride-to-hell/)
 * [Be Effective, Not Productive](https://nikoheikkila.fi/blog/be-effective-not-productive/)
 * [Use Case Driven Development: How to Write Resilient and Robust Tests](https://nikoheikkila.fi/blog/use-case-driven-development-how-to-write-resilient-and-robust-tests/)
 * [Turning up the Developer Experience to Eleven with Mob Programming](https://nikoheikkila.fi/blog/turning-up-the-developer-experience-to-eleven-with-mob-programming/)
-* [A Practical Guide to Micro-Commits](https://nikoheikkila.fi/blog/a-practical-guide-to-micro-commits/)
 * [The Essentials of Simple Design](https://nikoheikkila.fi/blog/the-essentials-of-simple-design/)
 * [How do you ensure your team receives feedback as fast as possible?](https://nikoheikkila.fi/blog/how-do-you-ensure-your-team-receives-feedback-as-fast-as-possible/)
 * [New Computer — Who Dis?](https://nikoheikkila.fi/blog/new-computer-who-dis/)
