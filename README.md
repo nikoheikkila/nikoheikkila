@@ -16,6 +16,8 @@ I’m a software craftsman and engineer with a strong passion for making work an
 ### 📜 Recent Blog Entries
 
 
+* [Clean Frontend Architecture with SvelteKit: Preface](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/)
+* [Clean Frontend Architecture with SvelteKit: Discovering the Use Cases](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/discovering-the-use-cases/)
 * [A Practical Guide to Micro-Commits](https://nikoheikkila.fi/blog/a-practical-guide-to-micro-commits/)
 * [Layman&#39;s Guide to Higher-Order Functions](https://nikoheikkila.fi/blog/layman-s-guide-to-higher-order-functions/)
 * [The Definitive List of Things I Don&#39;t Know](https://nikoheikkila.fi/blog/things-i-don-t-know/)
@@ -24,14 +26,12 @@ I’m a software craftsman and engineer with a strong passion for making work an
 * [Use Case Driven Development: How to Write Resilient and Robust Tests](https://nikoheikkila.fi/blog/use-case-driven-development-how-to-write-resilient-and-robust-tests/)
 * [Turning up the Developer Experience to Eleven with Mob Programming](https://nikoheikkila.fi/blog/turning-up-the-developer-experience-to-eleven-with-mob-programming/)
 * [The Essentials of Simple Design](https://nikoheikkila.fi/blog/the-essentials-of-simple-design/)
-* [How do you ensure your team receives feedback as fast as possible?](https://nikoheikkila.fi/blog/how-do-you-ensure-your-team-receives-feedback-as-fast-as-possible/)
-* [New Computer — Who Dis?](https://nikoheikkila.fi/blog/new-computer-who-dis/)
 
 ### 👷 Recent Contributions
 
 
-* [nikoheikkila/photo-browser](https://github.com/nikoheikkila/photo-browser) – A modern frontend application architecture built with SvelteKit and Hexagonal / Clean Architecture principles
 * [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) – A blog by Niko Heikkilä. Powered by coffee, VS Code, and Gatsby.
+* [nikoheikkila/photo-browser](https://github.com/nikoheikkila/photo-browser) – A modern frontend application architecture built with SvelteKit and Hexagonal / Clean Architecture principles
 * [nikoheikkila/publicator](https://github.com/nikoheikkila/publicator) – A better user experience for publishing Python packages with Poetry.
 * [nikoheikkila/rust-training](https://github.com/nikoheikkila/rust-training) – My Shenanigans in Rust
 * [nikoheikkila/semmy](https://github.com/nikoheikkila/semmy) – Semantic versioning made easy for Python
