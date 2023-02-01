@@ -16,6 +16,7 @@ I’m a software craftsman and engineer with a strong passion for making work an
 ### 📜 Recent Blog Entries
 
 
+* [Clean Frontend Architecture with SvelteKit: Handling the External Dependencies with Gateway](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/handling-the-external-dependencies-with-gateway/)
 * [Clean Frontend Architecture with SvelteKit: Discovering the Use Cases](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/discovering-the-use-cases/)
 * [Clean Frontend Architecture with SvelteKit: Preface](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/)
 * [A Practical Guide to Micro-Commits](https://nikoheikkila.fi/blog/a-practical-guide-to-micro-commits/)
@@ -25,7 +26,6 @@ I’m a software craftsman and engineer with a strong passion for making work an
 * [Be Effective, Not Productive](https://nikoheikkila.fi/blog/be-effective-not-productive/)
 * [Use Case Driven Development: How to Write Resilient and Robust Tests](https://nikoheikkila.fi/blog/use-case-driven-development-how-to-write-resilient-and-robust-tests/)
 * [Turning up the Developer Experience to Eleven with Mob Programming](https://nikoheikkila.fi/blog/turning-up-the-developer-experience-to-eleven-with-mob-programming/)
-* [The Essentials of Simple Design](https://nikoheikkila.fi/blog/the-essentials-of-simple-design/)
 
 ### 👷 Recent Contributions
 
