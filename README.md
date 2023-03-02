@@ -33,17 +33,17 @@ I’m a software craftsman and engineer with a strong passion for making work an
 * [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) – A blog by Niko Heikkilä. Powered by coffee, VS Code, and Gatsby.
 * [nikoheikkila/resume-schema-zod](https://github.com/nikoheikkila/resume-schema-zod) – Zod Schema for JSON Resume
 * [nikoheikkila/photo-browser](https://github.com/nikoheikkila/photo-browser) – A modern frontend application architecture built with SvelteKit and Hexagonal / Clean Architecture principles
-* [nikoheikkila/rust-training](https://github.com/nikoheikkila/rust-training) – My Shenanigans in Rust
+* [nikoheikkila/semmy](https://github.com/nikoheikkila/semmy) – Semantic versioning made easy for Python
 * [nikoheikkila/publicator](https://github.com/nikoheikkila/publicator) – A better user experience for publishing Python packages with Poetry.
 
 ### 🧙‍♂️ Recent Gists
 
 
+* [Update TypeScript objects given a string path and a value.](https://gist.github.com/273c97f06c2a7a23b58f622f143972f6)
 * [In-Memory Filesystem Repository for Node.js &amp; TypeScript](https://gist.github.com/8a9c13483ebf5f081f41704a85b551ec)
 * [General directory scanner implementation in pure Python](https://gist.github.com/9252fa3c0c0e89a940218bd71e73ca31)
 * [Python: Quick script to update all the existing Poetry packages by traversing pyproject.toml file.](https://gist.github.com/a5203186f9cf7fe0af6d154db328e336)
 * [Fish Shell: Interactive runner for your Taskfile tasks](https://gist.github.com/f8f6d707102e186b790bc3efb5bd70c2)
-* [A quick way to serialize Numpy Array to JSON](https://gist.github.com/7c32831c3d65adbcc4bee5b9930564c0)
 
 ### 📧 How to Reach Me?
 
