@@ -39,11 +39,11 @@ I’m a software craftsman and engineer with a strong passion for making work an
 ### 🧙‍♂️ Recent Gists
 
 
+* [TypeScript version of the card game presented in the talk Domain Modelling Made Functional by Scott Wlaschin.](https://gist.github.com/49f88c62b4dea150e0605f8cfece1832)
 * [Update TypeScript objects given a string path and a value.](https://gist.github.com/273c97f06c2a7a23b58f622f143972f6)
 * [In-Memory Filesystem Repository for Node.js &amp; TypeScript](https://gist.github.com/8a9c13483ebf5f081f41704a85b551ec)
 * [General directory scanner implementation in pure Python](https://gist.github.com/9252fa3c0c0e89a940218bd71e73ca31)
 * [Python: Quick script to update all the existing Poetry packages by traversing pyproject.toml file.](https://gist.github.com/a5203186f9cf7fe0af6d154db328e336)
-* [Fish Shell: Interactive runner for your Taskfile tasks](https://gist.github.com/f8f6d707102e186b790bc3efb5bd70c2)
 
 ### 📧 How to Reach Me?
 
