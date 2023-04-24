@@ -33,8 +33,8 @@ I’m a software craftsman and engineer with a strong passion for making work an
 * [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) – A blog by Niko Heikkilä. Powered by coffee, VS Code, and Gatsby.
 * [nikoheikkila/resume-schema-zod](https://github.com/nikoheikkila/resume-schema-zod) – Zod Schema for JSON Resume
 * [nikoheikkila/photo-browser](https://github.com/nikoheikkila/photo-browser) – A modern frontend application architecture built with SvelteKit and Hexagonal / Clean Architecture principles
+* [nikoheikkila/rust-training](https://github.com/nikoheikkila/rust-training) – My Shenanigans in Rust
 * [nikoheikkila/publicator](https://github.com/nikoheikkila/publicator) – A better user experience for publishing Python packages with Poetry.
-* [nikoheikkila/semmy](https://github.com/nikoheikkila/semmy) – Semantic versioning made easy for Python
 
 ### 🧙‍♂️ Recent Gists
 
