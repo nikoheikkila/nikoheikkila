@@ -16,6 +16,7 @@ I’m a software craftsman and engineer with a strong passion for making work an
 ### 📜 Recent Blog Entries
 
 
+* [Clean Frontend Architecture with SvelteKit: Server-Side Routes and Components](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/server-side-routes-and-components/)
 * [Clean Frontend Architecture with SvelteKit: Domain Modelling](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/domain-modelling/)
 * [Clean Frontend Architecture with SvelteKit: Handling the External Dependencies with Gateway](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/handling-the-external-dependencies-with-gateway/)
 * [Clean Frontend Architecture with SvelteKit: Discovering the Use Cases](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/discovering-the-use-cases/)
@@ -25,7 +26,6 @@ I’m a software craftsman and engineer with a strong passion for making work an
 * [The Definitive List of Things I Don&#39;t Know](https://nikoheikkila.fi/blog/things-i-don-t-know/)
 * [Test-Driven Development on a Bus Ride to Hell](https://nikoheikkila.fi/blog/test-driven-development-on-a-bus-ride-to-hell/)
 * [Be Effective, Not Productive](https://nikoheikkila.fi/blog/be-effective-not-productive/)
-* [Use Case Driven Development: How to Write Resilient and Robust Tests](https://nikoheikkila.fi/blog/use-case-driven-development-how-to-write-resilient-and-robust-tests/)
 
 ### 👷 Recent Contributions
 
