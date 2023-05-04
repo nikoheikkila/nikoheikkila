@@ -16,6 +16,7 @@ I’m a software craftsman and engineer with a strong passion for making work an
 ### 📜 Recent Blog Entries
 
 
+* [Clean Frontend Architecture with SvelteKit: Building Confidence with Acceptance Testing](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/acceptance-testing/)
 * [Clean Frontend Architecture with SvelteKit: Server-Side Routes and Components](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/server-side-routes-and-components/)
 * [Clean Frontend Architecture with SvelteKit: Domain Modelling](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/domain-modelling/)
 * [Clean Frontend Architecture with SvelteKit: Handling the External Dependencies with Gateway](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/handling-the-external-dependencies-with-gateway/)
@@ -25,7 +26,6 @@ I’m a software craftsman and engineer with a strong passion for making work an
 * [Layman&#39;s Guide to Higher-Order Functions](https://nikoheikkila.fi/blog/layman-s-guide-to-higher-order-functions/)
 * [The Definitive List of Things I Don&#39;t Know](https://nikoheikkila.fi/blog/things-i-don-t-know/)
 * [Test-Driven Development on a Bus Ride to Hell](https://nikoheikkila.fi/blog/test-driven-development-on-a-bus-ride-to-hell/)
-* [Be Effective, Not Productive](https://nikoheikkila.fi/blog/be-effective-not-productive/)
 
 ### 👷 Recent Contributions
 
