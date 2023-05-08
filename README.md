@@ -16,6 +16,7 @@ I’m a software craftsman and engineer with a strong passion for making work an
 ### 📜 Recent Blog Entries
 
 
+* [Clean Frontend Architecture with SvelteKit: Enabling Safe and Continuous Deployments](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/continuous-deployments/)
 * [Clean Frontend Architecture with SvelteKit: Building Confidence with Acceptance Testing](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/acceptance-testing/)
 * [Clean Frontend Architecture with SvelteKit: Server-Side Routes and Components](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/server-side-routes-and-components/)
 * [Clean Frontend Architecture with SvelteKit: Domain Modelling](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/domain-modelling/)
@@ -25,14 +26,13 @@ I’m a software craftsman and engineer with a strong passion for making work an
 * [A Practical Guide to Micro-Commits](https://nikoheikkila.fi/blog/a-practical-guide-to-micro-commits/)
 * [Layman&#39;s Guide to Higher-Order Functions](https://nikoheikkila.fi/blog/layman-s-guide-to-higher-order-functions/)
 * [The Definitive List of Things I Don&#39;t Know](https://nikoheikkila.fi/blog/things-i-don-t-know/)
-* [Test-Driven Development on a Bus Ride to Hell](https://nikoheikkila.fi/blog/test-driven-development-on-a-bus-ride-to-hell/)
 
 ### 👷 Recent Contributions
 
 
 * [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) – A blog by Niko Heikkilä. Powered by coffee, VS Code, and Gatsby.
-* [nikoheikkila/resume-schema-zod](https://github.com/nikoheikkila/resume-schema-zod) – Zod Schema for JSON Resume
 * [nikoheikkila/photo-browser](https://github.com/nikoheikkila/photo-browser) – A modern frontend application architecture built with SvelteKit and Hexagonal / Clean Architecture principles
+* [nikoheikkila/resume-schema-zod](https://github.com/nikoheikkila/resume-schema-zod) – Zod Schema for JSON Resume
 * [nikoheikkila/rust-training](https://github.com/nikoheikkila/rust-training) – My Shenanigans in Rust
 * [nikoheikkila/publicator](https://github.com/nikoheikkila/publicator) – A better user experience for publishing Python packages with Poetry.
 
