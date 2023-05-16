@@ -30,11 +30,11 @@ I’m a software craftsman and engineer with a strong passion for making work an
 ### 👷 Recent Contributions
 
 
-* [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) – A blog by Niko Heikkilä. Powered by coffee, VS Code, and Gatsby.
+* [nikoheikkila/setup](https://github.com/nikoheikkila/setup) – New Computer, Who Dis? – Setup new development box with a single script
+* [nikoheikkila/kitty](https://github.com/nikoheikkila/kitty) – Kitty configuration
 * [nikoheikkila/photo-browser](https://github.com/nikoheikkila/photo-browser) – A modern frontend application architecture built with SvelteKit and Hexagonal / Clean Architecture principles
+* [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) – A blog by Niko Heikkilä. Powered by coffee, VS Code, and Gatsby.
 * [nikoheikkila/resume-schema-zod](https://github.com/nikoheikkila/resume-schema-zod) – Zod Schema for JSON Resume
-* [nikoheikkila/rust-training](https://github.com/nikoheikkila/rust-training) – My Shenanigans in Rust
-* [nikoheikkila/publicator](https://github.com/nikoheikkila/publicator) – A better user experience for publishing Python packages with Poetry.
 
 ### 🧙‍♂️ Recent Gists
 
