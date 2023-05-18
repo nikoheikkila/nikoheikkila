@@ -30,8 +30,8 @@ I’m a software craftsman and engineer with a strong passion for making work an
 ### 👷 Recent Contributions
 
 
-* [nikoheikkila/setup](https://github.com/nikoheikkila/setup) – New Computer, Who Dis? – Setup new development box with a single script
 * [nikoheikkila/kitty](https://github.com/nikoheikkila/kitty) – Kitty configuration
+* [nikoheikkila/setup](https://github.com/nikoheikkila/setup) – New Computer, Who Dis? – Setup new development box with a single script
 * [nikoheikkila/photo-browser](https://github.com/nikoheikkila/photo-browser) – A modern frontend application architecture built with SvelteKit and Hexagonal / Clean Architecture principles
 * [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) – A blog by Niko Heikkilä. Powered by coffee, VS Code, and Gatsby.
 * [nikoheikkila/resume-schema-zod](https://github.com/nikoheikkila/resume-schema-zod) – Zod Schema for JSON Resume
@@ -39,11 +39,11 @@ I’m a software craftsman and engineer with a strong passion for making work an
 ### 🧙‍♂️ Recent Gists
 
 
+* [Global Task definitions for handling routine tasks across my computers.](https://gist.github.com/e65316f8ebb419007d6089be6d53f2a2)
 * [TypeScript version of the card game presented in the talk Domain Modelling Made Functional by Scott Wlaschin.](https://gist.github.com/49f88c62b4dea150e0605f8cfece1832)
 * [Update TypeScript objects given a string path and a value.](https://gist.github.com/273c97f06c2a7a23b58f622f143972f6)
 * [In-Memory Filesystem Repository for Node.js &amp; TypeScript](https://gist.github.com/8a9c13483ebf5f081f41704a85b551ec)
 * [General directory scanner implementation in pure Python](https://gist.github.com/9252fa3c0c0e89a940218bd71e73ca31)
-* [Python: Quick script to update all the existing Poetry packages by traversing pyproject.toml file.](https://gist.github.com/a5203186f9cf7fe0af6d154db328e336)
 
 ### 📧 How to Reach Me?
 
