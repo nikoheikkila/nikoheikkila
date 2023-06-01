@@ -30,11 +30,11 @@ I’m a software craftsman and engineer with a strong passion for making work an
 ### 👷 Recent Contributions
 
 
-* [nikoheikkila/lazyvim](https://github.com/nikoheikkila/lazyvim) – A starter template for Lazy Vim that has been slightly customised by yours truly.
+* [nikoheikkila/photo-browser](https://github.com/nikoheikkila/photo-browser) – A modern frontend application architecture built with SvelteKit and Hexagonal / Clean Architecture principles
 * [nikoheikkila/kitty](https://github.com/nikoheikkila/kitty) – My Kitty terminal configuration
+* [nikoheikkila/lazyvim](https://github.com/nikoheikkila/lazyvim) – A starter template for Lazy Vim that has been slightly customised by yours truly.
 * [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) – A blog by Niko Heikkilä. Powered by coffee, VS Code, and Gatsby.
 * [nikoheikkila/setup](https://github.com/nikoheikkila/setup) – New Computer, Who Dis? – Setup new development box with a single script
-* [nikoheikkila/photo-browser](https://github.com/nikoheikkila/photo-browser) – A modern frontend application architecture built with SvelteKit and Hexagonal / Clean Architecture principles
 
 ### 🧙‍♂️ Recent Gists
 
