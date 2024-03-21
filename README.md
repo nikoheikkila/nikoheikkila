@@ -16,6 +16,8 @@ I’m a software craftsman and engineer with a strong passion for making work an
 ### 📜 Recent Blog Entries
 
 
+* [Film Review: Poor Things (2023)](https://nikoheikkila.fi/blog/film-review-poor-things-2023/)
+* [Five Essential Pointers for Improving Your Product and Process Quality](https://nikoheikkila.fi/blog/five-essential-pointers-for-improving-your-product-and-process-quality/)
 * [Clean Frontend Architecture with SvelteKit: Enabling Safe and Continuous Deployments](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/continuous-deployments/)
 * [Clean Frontend Architecture with SvelteKit: Building Confidence with Acceptance Testing](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/acceptance-testing/)
 * [Clean Frontend Architecture with SvelteKit: Server-Side Routes and Components](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/server-side-routes-and-components/)
@@ -24,26 +26,23 @@ I’m a software craftsman and engineer with a strong passion for making work an
 * [Clean Frontend Architecture with SvelteKit: Discovering the Use Cases](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/discovering-the-use-cases/)
 * [Clean Frontend Architecture with SvelteKit: Preface](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/)
 * [A Practical Guide to Micro-Commits](https://nikoheikkila.fi/blog/a-practical-guide-to-micro-commits/)
-* [Layman&#39;s Guide to Higher-Order Functions](https://nikoheikkila.fi/blog/layman-s-guide-to-higher-order-functions/)
-* [The Definitive List of Things I Don&#39;t Know](https://nikoheikkila.fi/blog/things-i-don-t-know/)
 
 ### 👷 Recent Contributions
 
 
-* [nikoheikkila/setup](https://github.com/nikoheikkila/setup) – New Computer, Who Dis? – Setup new development box with a single script
-* [nikoheikkila/kitty](https://github.com/nikoheikkila/kitty) – My Kitty terminal configuration
-* [nikoheikkila/photo-browser](https://github.com/nikoheikkila/photo-browser) – A modern frontend application architecture built with SvelteKit and Hexagonal / Clean Architecture principles
-* [nikoheikkila/lazyvim](https://github.com/nikoheikkila/lazyvim) – A starter template for Lazy Vim that has been slightly customised by yours truly.
 * [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) – A blog by Niko Heikkilä. Powered by coffee, VS Code, and Gatsby.
+* [nikoheikkila/setup](https://github.com/nikoheikkila/setup) – New Computer, Who Dis? – Setup new development box with a single script
+* [nikoheikkila/tasks](https://github.com/nikoheikkila/tasks) – 
+* [nikoheikkila/lazyvim](https://github.com/nikoheikkila/lazyvim) – A starter template for Lazy Vim that has been slightly customised by yours truly.
 
 ### 🧙‍♂️ Recent Gists
 
 
+* [A quick way to record a new time entry using the official Harvest CLI package.](https://gist.github.com/d84831960255674e0883de631b09229b)
 * [Global Task definitions for handling routine tasks across my computers.](https://gist.github.com/e65316f8ebb419007d6089be6d53f2a2)
 * [TypeScript version of the card game presented in the talk Domain Modelling Made Functional by Scott Wlaschin.](https://gist.github.com/49f88c62b4dea150e0605f8cfece1832)
 * [Update TypeScript objects given a string path and a value.](https://gist.github.com/273c97f06c2a7a23b58f622f143972f6)
 * [In-Memory Filesystem Repository for Node.js &amp; TypeScript](https://gist.github.com/8a9c13483ebf5f081f41704a85b551ec)
-* [General directory scanner implementation in pure Python](https://gist.github.com/9252fa3c0c0e89a940218bd71e73ca31)
 
 ### 📧 How to Reach Me?
 
