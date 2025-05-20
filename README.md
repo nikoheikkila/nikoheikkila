@@ -16,6 +16,8 @@ I’m a software craftsman and engineer with a strong passion for making work an
 ### 📜 Recent Blog Entries
 
 
+* [Escaping the Desert: Software Teams Thrive in the Forest](https://nikoheikkila.fi/blog/escaping-the-desert-software-teams-thrive-in-the-forest/)
+* [From Speculation to Facts – Mastering Vertical Slicing in Software Engineering](https://nikoheikkila.fi/blog/from-speculation-to-facts-mastering-vertical-slicing-in-software-engineering/)
 * [Film Review: Poor Things (2023)](https://nikoheikkila.fi/blog/film-review-poor-things-2023/)
 * [Five Essential Pointers for Improving Your Product and Process Quality](https://nikoheikkila.fi/blog/five-essential-pointers-for-improving-your-product-and-process-quality/)
 * [Clean Frontend Architecture with SvelteKit: Enabling Safe and Continuous Deployments](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/continuous-deployments/)
@@ -24,26 +26,21 @@ I’m a software craftsman and engineer with a strong passion for making work an
 * [Clean Frontend Architecture with SvelteKit: Domain Modelling](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/domain-modelling/)
 * [Clean Frontend Architecture with SvelteKit: Handling the External Dependencies with Gateway](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/handling-the-external-dependencies-with-gateway/)
 * [Clean Frontend Architecture with SvelteKit: Discovering the Use Cases](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/discovering-the-use-cases/)
-* [Clean Frontend Architecture with SvelteKit: Preface](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/)
-* [A Practical Guide to Micro-Commits](https://nikoheikkila.fi/blog/a-practical-guide-to-micro-commits/)
 
 ### 👷 Recent Contributions
 
 
-* [nikoheikkila/setup](https://github.com/nikoheikkila/setup) – New Computer, Who Dis? – Setup new development box with a single script
-* [nikoheikkila/nestjs-clean-architecture](https://github.com/nikoheikkila/nestjs-clean-architecture) – Example Nest.js application created with Clean Architecture principles
-* [polarsquad/harvest](https://github.com/polarsquad/harvest) – 
 * [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) – A blog by Niko Heikkilä. Powered by coffee, VS Code, and Gatsby.
-* [nikoheikkila/tasks](https://github.com/nikoheikkila/tasks) – 
+* [nikoheikkila/setup](https://github.com/nikoheikkila/setup) – New Computer, Who Dis? – Setup new development box with a single script
 
 ### 🧙‍♂️ Recent Gists
 
 
-* [A quick way to record a new time entry using the official Harvest CLI package.](https://gist.github.com/d84831960255674e0883de631b09229b)
-* [Global Task definitions for handling routine tasks across my computers.](https://gist.github.com/e65316f8ebb419007d6089be6d53f2a2)
-* [TypeScript version of the card game presented in the talk Domain Modelling Made Functional by Scott Wlaschin.](https://gist.github.com/49f88c62b4dea150e0605f8cfece1832)
-* [Update TypeScript objects given a string path and a value.](https://gist.github.com/273c97f06c2a7a23b58f622f143972f6)
-* [In-Memory Filesystem Repository for Node.js &amp; TypeScript](https://gist.github.com/8a9c13483ebf5f081f41704a85b551ec)
+* [TypeScript type-system validation](https://gist.github.com/2516e89307782c092274ff5171af063c)
+* [node:assert example](https://gist.github.com/069de0693a8d7ce436eb32478b2cc549)
+* [A polymorphism example with classes in Typescript](https://gist.github.com/92f889a15806e1427fc70d7506882c26)
+* [TypeScript: Compiling Handlebars templates with custom data](https://gist.github.com/faf63b2b43cdcb6abbc1dddfa66a0a41)
+* [Python: Calculate person&#39;s weight on different planets](https://gist.github.com/ef76bf041746bbc5b21432a54457d47b)
 
 ### 📧 How to Reach Me?
 
