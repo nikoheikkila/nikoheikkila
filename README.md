@@ -31,7 +31,6 @@ I’m a software craftsman and engineer with a strong passion for making work an
 
 
 * [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) – A blog by Niko Heikkilä. Powered by coffee, VS Code, and Gatsby.
-* [nikoheikkila/setup](https://github.com/nikoheikkila/setup) – New Computer, Who Dis? – Setup new development box with a single script
 
 ### 🧙‍♂️ Recent Gists
 
