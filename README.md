@@ -16,6 +16,7 @@ I’m a software craftsman and engineer with a strong passion for making work an
 ### 📜 Recent Blog Entries
 
 
+* [My AI Agents Are All Nuts](https://nikoheikkila.fi/blog/my-ai-agents-are-all-nuts/)
 * [Escaping the Desert: Software Teams Thrive in the Forest](https://nikoheikkila.fi/blog/escaping-the-desert-software-teams-thrive-in-the-forest/)
 * [From Speculation to Facts – Mastering Vertical Slicing in Software Engineering](https://nikoheikkila.fi/blog/from-speculation-to-facts-mastering-vertical-slicing-in-software-engineering/)
 * [Film Review: Poor Things (2023)](https://nikoheikkila.fi/blog/film-review-poor-things-2023/)
@@ -25,7 +26,6 @@ I’m a software craftsman and engineer with a strong passion for making work an
 * [Clean Frontend Architecture with SvelteKit: Server-Side Routes and Components](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/server-side-routes-and-components/)
 * [Clean Frontend Architecture with SvelteKit: Domain Modelling](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/domain-modelling/)
 * [Clean Frontend Architecture with SvelteKit: Handling the External Dependencies with Gateway](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/handling-the-external-dependencies-with-gateway/)
-* [Clean Frontend Architecture with SvelteKit: Discovering the Use Cases](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/discovering-the-use-cases/)
 
 ### 👷 Recent Contributions
 
