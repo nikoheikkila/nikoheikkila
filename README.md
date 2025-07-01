@@ -35,11 +35,11 @@ I’m a software craftsman and engineer with a strong passion for making work an
 ### 🧙‍♂️ Recent Gists
 
 
+* [A quick and dirty changelog generator for Bash](https://gist.github.com/a7ec75ce6cd3240c0d2173ec7066e02e)
 * [Mandatory rules to use with coding agents. Use at your own risk!](https://gist.github.com/7c275791d49f96a10a6b8b7594fe9024)
 * [TypeScript type-system validation](https://gist.github.com/2516e89307782c092274ff5171af063c)
 * [node:assert example](https://gist.github.com/069de0693a8d7ce436eb32478b2cc549)
 * [A polymorphism example with classes in Typescript](https://gist.github.com/92f889a15806e1427fc70d7506882c26)
-* [TypeScript: Compiling Handlebars templates with custom data](https://gist.github.com/faf63b2b43cdcb6abbc1dddfa66a0a41)
 
 ### 📧 How to Reach Me?
 
