@@ -16,30 +16,34 @@ I’m a software craftsman and engineer with a strong passion for making work an
 ### 📜 Recent Blog Entries
 
 
+* [Generating Alt Texts for Images with Claude](https://nikoheikkila.fi/blog/generating-alt-texts-for-images-with-claude/)
+* [Healthcheck for You, Developer](https://nikoheikkila.fi/blog/healthcheck-for-you-developer/)
+* [Hello, Neovim, My Old Friend](https://nikoheikkila.fi/blog/hello-neovim-my-old-friend/)
+* [My Vibe-Coding Workflow](https://nikoheikkila.fi/blog/my-vibe-coding-workflow/)
+* [Craftsperson&#39;s Guide to GitHub Actions #3: Building and Releasing](https://nikoheikkila.fi/blog/craftpersons-guide-to-github-actions/building-and-releasing/)
+* [Craftsperson&#39;s Guide to GitHub Actions #2: Scaling up the Testing](https://nikoheikkila.fi/blog/craftpersons-guide-to-github-actions/scaling-up-the-testing/)
+* [Craftsperson&#39;s Guide to GitHub Actions #1: Designing for Success](https://nikoheikkila.fi/blog/craftpersons-guide-to-github-actions/designing-for-success/)
+* [Craftsperson&#39;s Guide to GitHub Actions](https://nikoheikkila.fi/blog/craftpersons-guide-to-github-actions/)
+* [Everyday Design](https://nikoheikkila.fi/blog/everyday-design/)
 * [My AI Agents Are All Nuts](https://nikoheikkila.fi/blog/my-ai-agents-are-all-nuts/)
-* [Escaping the Desert: Software Teams Thrive in the Forest](https://nikoheikkila.fi/blog/escaping-the-desert-software-teams-thrive-in-the-forest/)
-* [From Speculation to Facts – Mastering Vertical Slicing in Software Engineering](https://nikoheikkila.fi/blog/from-speculation-to-facts-mastering-vertical-slicing-in-software-engineering/)
-* [Film Review: Poor Things (2023)](https://nikoheikkila.fi/blog/film-review-poor-things-2023/)
-* [Five Essential Pointers for Improving Your Product and Process Quality](https://nikoheikkila.fi/blog/five-essential-pointers-for-improving-your-product-and-process-quality/)
-* [Clean Frontend Architecture with SvelteKit: Enabling Safe and Continuous Deployments](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/continuous-deployments/)
-* [Clean Frontend Architecture with SvelteKit: Building Confidence with Acceptance Testing](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/acceptance-testing/)
-* [Clean Frontend Architecture with SvelteKit: Server-Side Routes and Components](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/server-side-routes-and-components/)
-* [Clean Frontend Architecture with SvelteKit: Domain Modelling](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/domain-modelling/)
-* [Clean Frontend Architecture with SvelteKit: Handling the External Dependencies with Gateway](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/handling-the-external-dependencies-with-gateway/)
 
 ### 👷 Recent Contributions
 
 
-* [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) – A blog by Niko Heikkilä. Powered by coffee, VS Code, and Gatsby.
+* [nikoheikkila/.agents](https://github.com/nikoheikkila/.agents) – VCS backup of my ~/.agents directory for Claude and other harnesses
+* [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) – This blog contains insights related to modern software engineering practices.
+* [nikoheikkila/nvim](https://github.com/nikoheikkila/nvim) – Neovim configuration for editing Markdown (and a bit of code)
+* [nikoheikkila/playwright-github-actions-reporter](https://github.com/nikoheikkila/playwright-github-actions-reporter) – Playwright Reporter for Github Actions
+* [nikoheikkila/semmy](https://github.com/nikoheikkila/semmy) – Semantic versioning made easy for Python
 
 ### 🧙‍♂️ Recent Gists
 
 
+* [Zod-powered HTTP requests with Node.js fetch()](https://gist.github.com/fd4880b57094ac323d2eb263f8e18c8d)
+* [TypeScript &amp; Vitest performance test](https://gist.github.com/bb31c6741e2abf980a5a1984d4c2faff)
 * [A quick and dirty changelog generator for Bash](https://gist.github.com/a7ec75ce6cd3240c0d2173ec7066e02e)
 * [Mandatory rules to use with coding agents. Use at your own risk!](https://gist.github.com/7c275791d49f96a10a6b8b7594fe9024)
 * [TypeScript type-system validation](https://gist.github.com/2516e89307782c092274ff5171af063c)
-* [node:assert example](https://gist.github.com/069de0693a8d7ce436eb32478b2cc549)
-* [A polymorphism example with classes in Typescript](https://gist.github.com/92f889a15806e1427fc70d7506882c26)
 
 ### 📧 How to Reach Me?
 
