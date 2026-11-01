@@ -4,7 +4,8 @@
 
 _Oh, don't mind the pizza there, but I hope you're hungry now._
 
-I’m a software craftsman and engineer with a strong passion for making work and life better for other software engineers. You can read my thoughts in long-form from my [blog][blog], [newsletter][hey], or in bytesize format from <a rel="me" href="https://fosstodon.org/@nikoheikkila">Mastodon</a>.
+I’m a software craftsman, engineer and a recruiter with a strong passion for making work and life better for other software engineers.
+You can read my thoughts in long-form from my [blog][blog] or in bytesize format from [Bluesky][bsky].
 
 ### 💻 Interesting Links
 
@@ -47,10 +48,12 @@ I’m a software craftsman and engineer with a strong passion for making work an
 
 ### 📧 How to Reach Me?
 
-* [**Telegram**][tg] for quick chats
+* [Signal][signal] or [**Telegram**][tg] for quick chats
 * [**LinkedIn**][li] for more professional connections
 
-At the moment, I'm not looking for work so leave those messages unsent. If you seek advice in modern software engineering, architecture, agile methods, or similar areas I am skilled in, then drop me a message and I'll reply in a couple of days.
+At the moment, I'm not looking for work so leave those messages unsent.
+If you seek advice in modern software engineering, architecture, agile methods, or similar areas I am skilled in,
+then drop me a message and I'll reply in a couple of days.
 
 ***
 
@@ -63,6 +66,7 @@ At the moment, I'm not looking for work so leave those messages unsent. If you s
 [uses]: https://nikoheikkila.fi/uses/
 [now]: https://nikoheikkila.fi/now/
 [cv]: https://cv.nikoheikkila.fi
-[tg]: https://t.me/nikoheikkila
+[tg]: https://telegram.nikoheikkila.fi/
+[signal]: https://signal.nikoheikkila.fi/
 [li]: https://www.linkedin.com/in/nikoheikkila/
-[hey]: https://world.hey.com/niko.heikkila/
+[bsky]: https://bsky.app/profile/nikoheikkila.fi
