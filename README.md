@@ -31,9 +31,9 @@ You can read my thoughts in long-form from my [blog][blog] or in bytesize format
 ### 👷 Recent Contributions
 
 
-* [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) – This blog contains insights related to modern software engineering practices.
-* [nikoheikkila/bluesky-archiver](https://github.com/nikoheikkila/bluesky-archiver) – Archives my Bluesky posts older than a year.
 * [nikoheikkila/.agents](https://github.com/nikoheikkila/.agents) – VCS backup of my ~/.agents directory for Claude and other harnesses
+* [nikoheikkila/bluesky-archiver](https://github.com/nikoheikkila/bluesky-archiver) – Archives my Bluesky posts older than a year.
+* [nikoheikkila/nikoheikkila.fi](https://github.com/nikoheikkila/nikoheikkila.fi) – This blog contains insights related to modern software engineering practices.
 * [nikoheikkila/nvim](https://github.com/nikoheikkila/nvim) – Neovim configuration for editing Markdown (and a bit of code)
 * [nikoheikkila/playwright-github-actions-reporter](https://github.com/nikoheikkila/playwright-github-actions-reporter) – Playwright Reporter for Github Actions
 
